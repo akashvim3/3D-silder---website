@@ -14,9 +14,8 @@ Welcome to the **3D Slider Website** project! This project features an interacti
 
 ## Demo
 
-Check out the live demo of the 3D Slider Website: [Live Demo](https://your-demo-link.com)
-
-![3D Slider Animation](https://media.giphy.com/media/l1J9sXUmXRE3T0u9O/giphy.gif)
+Check out the live demo of the 3D Slider Website: [Live Demo](https://akashvim3.github.io/3D-silder---website/)
+You Some Change or Fix the Error Or any other
 
 ## Features
 
